@@ -11,7 +11,7 @@ Each concept is explained through interactive notebooks with code, visualization
 
 ## ✅ Topics Covered (Planned)
 
-1. Vectors and Basic Operations  
+1. Vectors and Basic Operations 
 2. Dot Product & Cosine Similarity  
 3. Matrices and Multiplications  
 4. Linear Transformations  
